@@ -1,0 +1,17 @@
+/Users/chuasweechin/Coding/Testing/CoreTest/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/chuasweechin/Coding/Testing/CoreTest/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/chuasweechin/Coding/Testing/CoreTest/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/chuasweechin/Coding/Testing/CoreTest/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/chuasweechin/Coding/Testing/CoreTest/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/chuasweechin/Coding/Testing/CoreTest/HelloWorld/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/chuasweechin/Coding/Testing/CoreTest/HelloWorld/bin/Debug/netcoreapp3.1/Microsoft.WindowsAzure.Storage.dll
+/Users/chuasweechin/Coding/Testing/CoreTest/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.MvcApplicationPartsAssemblyInfo.cache
+/Users/chuasweechin/Coding/Testing/CoreTest/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/chuasweechin/Coding/Testing/CoreTest/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/chuasweechin/Coding/Testing/CoreTest/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.RazorTargetAssemblyInfo.cache
+/Users/chuasweechin/Coding/Testing/CoreTest/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CopyComplete
+/Users/chuasweechin/Coding/Testing/CoreTest/HelloWorld/obj/Debug/netcoreapp3.1/staticwebassets/HelloWorld.StaticWebAssets.Manifest.cache
+/Users/chuasweechin/Coding/Testing/CoreTest/HelloWorld/obj/Debug/netcoreapp3.1/staticwebassets/HelloWorld.StaticWebAssets.xml
+/Users/chuasweechin/Coding/Testing/CoreTest/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/chuasweechin/Coding/Testing/CoreTest/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/chuasweechin/Coding/Testing/CoreTest/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache

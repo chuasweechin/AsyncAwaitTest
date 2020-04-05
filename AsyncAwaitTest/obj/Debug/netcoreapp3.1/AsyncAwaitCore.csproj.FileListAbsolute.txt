@@ -1,0 +1,16 @@
+/Users/chuasweechin/Coding/Testing/AsyncAwaitCoreTest/HelloWorld/bin/Debug/netcoreapp3.1/AsyncAwaitCore.deps.json
+/Users/chuasweechin/Coding/Testing/AsyncAwaitCoreTest/HelloWorld/bin/Debug/netcoreapp3.1/AsyncAwaitCore.runtimeconfig.json
+/Users/chuasweechin/Coding/Testing/AsyncAwaitCoreTest/HelloWorld/bin/Debug/netcoreapp3.1/AsyncAwaitCore.runtimeconfig.dev.json
+/Users/chuasweechin/Coding/Testing/AsyncAwaitCoreTest/HelloWorld/bin/Debug/netcoreapp3.1/AsyncAwaitCore.dll
+/Users/chuasweechin/Coding/Testing/AsyncAwaitCoreTest/HelloWorld/bin/Debug/netcoreapp3.1/AsyncAwaitCore.pdb
+/Users/chuasweechin/Coding/Testing/AsyncAwaitCoreTest/HelloWorld/obj/Debug/netcoreapp3.1/AsyncAwaitCore.csprojAssemblyReference.cache
+/Users/chuasweechin/Coding/Testing/AsyncAwaitCoreTest/HelloWorld/obj/Debug/netcoreapp3.1/AsyncAwaitCore.csproj.CoreCompileInputs.cache
+/Users/chuasweechin/Coding/Testing/AsyncAwaitCoreTest/HelloWorld/obj/Debug/netcoreapp3.1/AsyncAwaitCore.MvcApplicationPartsAssemblyInfo.cache
+/Users/chuasweechin/Coding/Testing/AsyncAwaitCoreTest/HelloWorld/obj/Debug/netcoreapp3.1/AsyncAwaitCore.AssemblyInfoInputs.cache
+/Users/chuasweechin/Coding/Testing/AsyncAwaitCoreTest/HelloWorld/obj/Debug/netcoreapp3.1/AsyncAwaitCore.AssemblyInfo.cs
+/Users/chuasweechin/Coding/Testing/AsyncAwaitCoreTest/HelloWorld/obj/Debug/netcoreapp3.1/AsyncAwaitCore.RazorTargetAssemblyInfo.cache
+/Users/chuasweechin/Coding/Testing/AsyncAwaitCoreTest/HelloWorld/obj/Debug/netcoreapp3.1/staticwebassets/AsyncAwaitCore.StaticWebAssets.Manifest.cache
+/Users/chuasweechin/Coding/Testing/AsyncAwaitCoreTest/HelloWorld/obj/Debug/netcoreapp3.1/staticwebassets/AsyncAwaitCore.StaticWebAssets.xml
+/Users/chuasweechin/Coding/Testing/AsyncAwaitCoreTest/HelloWorld/obj/Debug/netcoreapp3.1/AsyncAwaitCore.dll
+/Users/chuasweechin/Coding/Testing/AsyncAwaitCoreTest/HelloWorld/obj/Debug/netcoreapp3.1/AsyncAwaitCore.pdb
+/Users/chuasweechin/Coding/Testing/AsyncAwaitCoreTest/HelloWorld/obj/Debug/netcoreapp3.1/AsyncAwaitCore.genruntimeconfig.cache
